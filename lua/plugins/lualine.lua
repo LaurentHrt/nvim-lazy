@@ -1,3 +1,4 @@
+-- plugin by default in lazyvim
 return {
   "nvim-lualine/lualine.nvim",
   opts = {
