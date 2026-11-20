@@ -5,6 +5,7 @@ return {
       sources = {
         files = { hidden = true },
         grep = { hidden = true },
+        live_grep = { hidden = true },
         explorer = { hidden = true },
       },
     },
